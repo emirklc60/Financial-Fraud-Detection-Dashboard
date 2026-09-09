@@ -30,5 +30,8 @@ Projede kullanılan temel performans göstergeleri (KPI) ve iş zekası ölçül
 
 ---
 
+## 📊 Power BI Pano Görünümü
+![Finansal Dolandırıcılık Tespit Panosu](dashboard.png)
+
 ## 🚀 Projenin İş Değeri (Business Impact)
 Bu çalışma ile ham ve anlamsız milyonlarca satırlık veri yığını; kurumların zarar etmesine yol açan güvenlik açıklarını nokta atışı tespit eden, risk altındaki devasa finansal hacmi ($12.06$ milyar) tek ekrandan yönetmeyi sağlayan **proaktif bir karar destek mekanizmasına** dönüştürülmüştür.
